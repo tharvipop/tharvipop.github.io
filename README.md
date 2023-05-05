@@ -1,2 +1,2 @@
-# dsc106.github.io
+# tharvipop.github.io
 site
