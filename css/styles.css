@@ -165,24 +165,6 @@ h1 {
     font-family: "Roboto";
 }
 
-
-/* mobile */
-@media (max-width: 740px) {
-p {
-    font-size: 1.1rem;
-}
-
-#intro {
-    column-gap: 1rem;
-}
-}
-
-
-/* targeting p element in footer-small class */
-.footer-small p{
-    font-size: 0.8rem;
-}
-
 /* stuff below for arc dropdown */
 .email-details {
     display: inline-block;
@@ -264,6 +246,24 @@ p {
       font-size: 1rem;
     }
   }
+
+
+/* mobile */
+@media (max-width: 740px) {
+p {
+    font-size: 1.1rem;
+}
+
+#intro {
+    column-gap: 1rem;
+}
+}
+
+
+/* targeting p element in footer-small class */
+.footer-small p{
+    font-size: 0.8rem;
+}
 
 
   
